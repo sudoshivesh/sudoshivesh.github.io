@@ -1,5 +1,5 @@
 <h1 align="center"><b> SHIVESH'S PORTFOLIO WEBSITE </b></h1>
-<h2 align="center"> THis is the UI of the portfolio website.</h2>
+<h2 align="center"> This is the UI of the portfolio website.</h2>
 
 ![portfolio1](https://user-images.githubusercontent.com/78317220/188071588-2bfc2674-9e33-48ca-883d-d4b0bd1bf1fd.png)
 
