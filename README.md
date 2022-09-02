@@ -16,5 +16,5 @@ You can also attach your certificates in the portfolio and it will looke like th
 <li> I have used canva for the background.</li>
 <li> Check it out on : https://sudoshivesh.github.io/ </li>
 <li> For any query contact me at : https://linktr.ee/sudoshivesh </li>
-<li> **Follow and share with your friend if you find it useful.** </li>
+  <li> <b>Follow and share with your friend if you find it useful.</b></li>
 </ul>
